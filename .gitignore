@@ -1,7 +1,6 @@
 # uv
 .venv/
 .uv-cache/
-uv.lock
 
 # marimo
 __marimo__/
